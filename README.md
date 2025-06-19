@@ -8,7 +8,7 @@ A novel approach to AI and neuroscience rooted in harmonic resonance, memory con
 
 This repository contains:
 
-- **Fibonacci Coherence Module** — A spike-timing algorithm based on golden ratio alignment and the Cohen 2.12 coherence ratio, designed to simulate resonance-aware memory collapse.
+- **Fibonacci Coherence Engine** — A spike-timing algorithm based on golden ratio alignment and the Cohen 2.12 coherence ratio, designed to simulate resonance-aware memory collapse.
 - **Spiking Neural Network Pilot** — PyTorch-based SNN implementation using BERT embeddings and coherence tracking.
 - **Whitepapers** — Philosophical, technical, and neuro-harmonic theory documentation.
 - **Data** — IMDB sentiment data and (eventually) EEG recordings to validate collapse timing.

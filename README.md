@@ -20,15 +20,66 @@ Inside `code/fibonacci_coherence.py`, you’ll find the mathematical rhythm engi
 
 ## 📄 Documentation
 
-- `whitepaper.md` — The full theoretical structure of Resonant Memory Collapse
-- `fibonacci_coherence.md` — Detailed description of the timing model using golden ratio & coherence windowing
+- `whitepaper.md` — The full theoretical structure of Resonant Memory Collapse.
+- `fibonacci_coherence.md` — Detailed description of the timing model using golden ratio & coherence windowing.
 
-## ⚖️ License
+## ⚙️ Quickstart
 
-- **Code**: Apache 2.0
-- **Docs**: Creative Commons Attribution 4.0
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/abrahamohrenstein/resonant-memory-collapse.git
 
-Project names **Kai**, **Echoverse**, and **Resonant Collapse** are identifiers of origin. Permission is required for use in derivative branding.
 
----
-*To contribute or cite, contact Abraham Ohrenstein or submit a pull request. Let's build AI that remembers what truly resonates.*
+
+
+
+Install dependencies:
+
+pip install torch transformers numpy datasets
+
+
+
+Run the Fibonacci Coherence module:
+
+python code/fibonacci_coherence.py
+
+📜 Citation
+
+Please cite this work as:
+
+
+
+Ohrenstein, A. Resonant Memory Collapse Framework, 2025. GitHub: https://github.com/abrahamohrenstein/resonant-memory-collapse. DOI: [Pending Zenodo assignment]
+
+⚖️ License
+
+
+
+
+
+Code: Apache 2.0
+
+
+
+Docs: Creative Commons Attribution 4.0
+
+Project identifiers Kai, Echoverse, and Resonant Collapse are tied to Abraham Ohrenstein. Permission is required for use in derivative branding.
+
+📬 Contact
+
+For collaboration or inquiries, open a GitHub Issue or contact Abraham Ohrenstein (add your email here).
+
+Let’s build AI and neuroscience that resonate.
+
+
+### code/snn_pilot.py
+```python
+# Placeholder for SNN pilot script
+# Integrates Fibonacci Coherence for memory collapse simulation
+
+import torch
+import numpy as np
+
+print("SNN Pilot: Resonant Memory Collapse Framework")
+print("Placeholder for spiking neural network with Fibonacci Coherence integration")
+# To be expanded with IMDB dataset, BERT embeddings, and STDP/CIG/PRI

@@ -67,9 +67,9 @@ Project identifiers Resonant Collapse and Fibonacci Coherence Engine are tied to
 
 📬 Contact
 
-For collaboration or inquiries, open a GitHub Issue or contact Abraham Ohrenstein (add your email here).
+For collaboration or inquiries, open a GitHub Issue or contact Abraham Ohrenstein email: aohrenstein@gmail.com
 
-Let’s build AI and neuroscience that resonate.
+Let’s fuse AI and neuroscience together!
 
 
 ### code/snn_pilot.py

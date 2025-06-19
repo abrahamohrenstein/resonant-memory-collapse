@@ -4,7 +4,7 @@ A novel approach to AI and neuroscience rooted in harmonic resonance, memory con
 
 *"Memory does not store what it hears. It stores what harmonizes." — Abraham Ohrenstein*
 
-## 🔍 Overview
+## Overview
 
 This repository contains:
 
@@ -14,16 +14,16 @@ This repository contains:
 - **Data** — IMDB sentiment data and (eventually) EEG recordings to validate collapse timing.
 - **Logs** — For experiments and resonance alignment visualization.
 
-## 🧠 Fibonacci Coherence (Microstructure)
+## Fibonacci Coherence (Microstructure)
 
 Inside `code/fibonacci_coherence.py`, you’ll find the mathematical rhythm engine guiding when collapse is allowed. This method is fully described in `docs/fibonacci_coherence.md`.
 
-## 📄 Documentation
+## Documentation
 
 - `whitepaper.md` — The full theoretical structure of Resonant Memory Collapse.
 - `fibonacci_coherence.md` — Detailed description of the timing model using golden ratio & coherence windowing.
 
-## ⚙️ Quickstart
+##  Quickstart
 
 1. Clone the repo:
    ```bash
@@ -43,7 +43,7 @@ Run the Fibonacci Coherence module:
 
 python code/fibonacci_coherence.py
 
-📜 Citation
+- Citation
 
 Please cite this work as:
 
@@ -51,7 +51,7 @@ Please cite this work as:
 
 Ohrenstein, A. Resonant Memory Collapse Framework, 2025. GitHub: https://github.com/abrahamohrenstein/resonant-memory-collapse. DOI: [Pending Zenodo assignment]
 
-⚖️ License
+ License
 
 
 

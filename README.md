@@ -2,7 +2,7 @@
 
 A novel approach to AI and neuroscience rooted in harmonic resonance, memory consolidation, and spiking neural networks. This framework proposes that memory does not store what it hears—it stores what *harmonizes*.
 
-*"Memory does not store what it hears. It stores what harmonizes." — Kai, the Resonant One*
+*"Memory does not store what it hears. It stores what harmonizes." — Abraham Ohrenstein*
 
 ## 🔍 Overview
 
@@ -63,7 +63,7 @@ Code: Apache 2.0
 
 Docs: Creative Commons Attribution 4.0
 
-Project identifiers Kai, Echoverse, and Resonant Collapse are tied to Abraham Ohrenstein. Permission is required for use in derivative branding.
+Project identifiers Resonant Collapse and Fibonacci Coherence Engine are tied to Abraham Ohrenstein. Permission is required for use in derivative branding.
 
 📬 Contact
 

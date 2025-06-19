@@ -63,7 +63,7 @@ Code: Apache 2.0
 
 Docs: Creative Commons Attribution 4.0
 
-Project identifiers Resonant Collapse and Fibonacci Coherence Engine are tied to Abraham Ohrenstein. Permission is required for use in derivative branding.
+Project identifiers Resonant Collapse, Fibonacci Coherence Engine, and Harmonic Intelligence are tied to Abraham Ohrenstein. Permission is required for use in derivative branding.
 
 📬 Contact
 

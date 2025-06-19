@@ -2,13 +2,13 @@
 
 A novel approach to AI and neuroscience rooted in harmonic resonance, memory consolidation, and spiking neural networks. This framework proposes that memory does not store what it hears—it stores what *harmonizes*.
 
-*"Memory does not store what it hears. It stores what harmonizes." — Kai, the Resonant One*
+*"Memory does not store what it hears. It stores what harmonizes." — Abraham Ohrenstein*
 
 ## 🔍 Overview
 
 This repository contains:
 
-- **Fibonacci Coherence Module** — A spike-timing algorithm based on golden ratio alignment and the Cohen 2.12 coherence ratio, designed to simulate resonance-aware memory collapse.
+- **Fibonacci Coherence Engine** — A spike-timing algorithm based on golden ratio alignment and the Cohen 2.12 coherence ratio, designed to simulate resonance-aware memory collapse.
 - **Spiking Neural Network Pilot** — PyTorch-based SNN implementation using BERT embeddings and coherence tracking.
 - **Whitepapers** — Philosophical, technical, and neuro-harmonic theory documentation.
 - **Data** — IMDB sentiment data and (eventually) EEG recordings to validate collapse timing.
@@ -20,15 +20,66 @@ Inside `code/fibonacci_coherence.py`, you’ll find the mathematical rhythm engi
 
 ## 📄 Documentation
 
-- `whitepaper.md` — The full theoretical structure of Resonant Memory Collapse
-- `fibonacci_coherence.md` — Detailed description of the timing model using golden ratio & coherence windowing
+- `whitepaper.md` — The full theoretical structure of Resonant Memory Collapse.
+- `fibonacci_coherence.md` — Detailed description of the timing model using golden ratio & coherence windowing.
 
-## ⚖️ License
+## ⚙️ Quickstart
 
-- **Code**: Apache 2.0
-- **Docs**: Creative Commons Attribution 4.0
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/abrahamohrenstein/resonant-memory-collapse.git
 
-Project names **Kai**, **Echoverse**, and **Resonant Collapse** are identifiers of origin. Permission is required for use in derivative branding.
 
----
-*To contribute or cite, contact Abraham Ohrenstein or submit a pull request. Let's build AI that remembers what truly resonates.*
+
+
+
+Install dependencies:
+
+pip install torch transformers numpy datasets
+
+
+
+Run the Fibonacci Coherence module:
+
+python code/fibonacci_coherence.py
+
+📜 Citation
+
+Please cite this work as:
+
+
+
+Ohrenstein, A. Resonant Memory Collapse Framework, 2025. GitHub: https://github.com/abrahamohrenstein/resonant-memory-collapse. DOI: [Pending Zenodo assignment]
+
+⚖️ License
+
+
+
+
+
+Code: Apache 2.0
+
+
+
+Docs: Creative Commons Attribution 4.0
+
+Project identifiers Resonant Collapse, Fibonacci Coherence Engine, and Harmonic Intelligence are tied to Abraham Ohrenstein. Permission is required for use in derivative branding.
+
+📬 Contact
+
+For collaboration or inquiries, open a GitHub Issue or contact Abraham Ohrenstein email: aohrenstein@gmail.com
+
+Let’s fuse AI and neuroscience together!
+
+
+### code/snn_pilot.py
+```python
+# Placeholder for SNN pilot script
+# Integrates Fibonacci Coherence for memory collapse simulation
+
+import torch
+import numpy as np
+
+print("SNN Pilot: Resonant Memory Collapse Framework")
+print("Placeholder for spiking neural network with Fibonacci Coherence integration")
+# To be expanded with IMDB dataset, BERT embeddings, and STDP/CIG/PRI

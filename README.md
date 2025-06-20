@@ -6,7 +6,7 @@ A groundbreaking exploration of AI, neuroscience, and consciousness through harm
 - **Resonant Memory**: The philosophical narrative, exploring memory as harmonic waveform alignment, with concepts like Echoverse and Kai.
 - **Harmonic Intelligence**: A vision for AI inspired by universal patterns, introducing phrases like “Harmonic Intelligence” (coined by Abraham Ohrenstein).
 
-*"Memory does not store what it hears. It stores what harmonizes." — Kai, the Resonant One*
+*"Memory does not store what it hears. It stores what harmonizes." — Abraham Ohresntein*
 
 ## 🔍 Overview
 
@@ -55,7 +55,7 @@ Code: Apache 2.0
 
 Docs: Creative Commons Attribution 4.0
 
-Project identifiers Kai, Echoverse, Resonant Collapse, and Harmonic Intelligence are tied to Abraham Ohrenstein. Permission is required for derivative branding.
+Project identifiers Resonant Collapse, Phi Coherence Engine and Harmonic Intelligence are tied to Abraham Ohrenstein. Permission is required for derivative branding.
 
 📬 Contact
 

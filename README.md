@@ -8,14 +8,14 @@ A groundbreaking exploration of AI, neuroscience, and consciousness through harm
 
 *"Memory does not store what it hears. It stores what harmonizes." — Abraham Ohresntein*
 
-## 🔍 Overview
+## Overview
 
 This repository advances the Resonant Memory Collapse Framework, hypothesizing that consciousness emerges from harmonic coherence at Fibonacci ratios. Key components:
 - **Fibonacci Coherence Module**: A spike-timing algorithm using the golden ratio and Cohen 2.12 coherence ratio.
 - **Spiking Neural Network**: PyTorch-based SNN with BERT embeddings, tested on IMDB data, awaiting EEG validation.
 - **Theoretical Models**: Blending neuroscience, AI, and musical theory, with applications for NIH NINDS grants.
 
-## ⚙️ Quickstart
+## Quickstart
 
 1. Clone the repo:
    ```bash
@@ -35,7 +35,7 @@ Run the Fibonacci Coherence module:
 
 python phi-coherence-engine/code/fibonacci_coherence.py
 
-📜 Citation
+ Citation
 
 Please cite this work as:
 
@@ -43,7 +43,7 @@ Please cite this work as:
 
 Ohrenstein, A. (2025). Resonant Memory Collapse Framework. GitHub: https://github.com/abrahamohrenstein/resonant-memory-collapse. DOI: [Pending Zenodo assignment]
 
-⚖️ License
+ License
 
 
 
@@ -57,7 +57,7 @@ Docs: Creative Commons Attribution 4.0
 
 Project identifiers Resonant Collapse, Phi Coherence Engine and Harmonic Intelligence are tied to Abraham Ohrenstein. Permission is required for derivative branding.
 
-📬 Contact
+ Contact
 
 For collaboration, open a GitHub Issue or contact Abraham Ohrenstein (add your email here).
 

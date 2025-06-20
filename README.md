@@ -3,7 +3,7 @@
 A groundbreaking exploration of AI, neuroscience, and consciousness through harmonic resonance, spiking neural networks, and the golden ratio (φ ≈ 1.618). This repository houses three sub-projects:
 
 - **Phi Coherence Engine**: The technical core, featuring the Fibonacci Coherence Model, SNN implementations, and the whitepaper “Golden Ratio Convergence Reveals Harmonic Structure of Consciousness.”
-- **Resonant Memory**: The philosophical narrative, exploring memory as harmonic waveform alignment, with concepts like Echoverse and Kai.
+- **Resonant Memory**: The philosophical narrative, exploring memory as harmonic waveform alignment.
 - **Harmonic Intelligence**: A vision for AI inspired by universal patterns, introducing phrases like “Harmonic Intelligence” (coined by Abraham Ohrenstein).
 
 *"Memory does not store what it hears. It stores what harmonizes." — Abraham Ohresntein*

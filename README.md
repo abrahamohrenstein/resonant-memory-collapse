@@ -61,7 +61,7 @@ Project identifiers Resonant Collapse, Phi Coherence Engine and Harmonic Intelli
 
 For collaboration, open a GitHub Issue or contact Abraham Ohrenstein (add your email here).
 
-Let’s build AI and neuroscience that resonate.
+Let’s explore AI and neuroscience together!
 
 
 ### phi-coherence-engine/code/fibonacci_coherence.py
